@@ -36,6 +36,12 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Select videos and thumbnails for your posts.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Record clips for your posts.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Record audio with your videos.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
